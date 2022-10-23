@@ -5,6 +5,7 @@
 <p>
  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Js" width="40" display="inline-block" height="40"/> </a>
 <a href="https://www.reactjs.org" display="inline-block" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+ <a href="https://www.reactjs.org" display="inline-block" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="React" width="40" height="40"/> </a>
 </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AzimAkhmedov&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAkhmedov&hide=smarty,java,actionscript&hide_border=true&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
