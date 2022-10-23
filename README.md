@@ -13,6 +13,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="css3" alt="css3" width="40" height="40"/> </a>
 </p>
 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="css3" alt="css3" width="40" height="40"/> </a>
+</p>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AzimAkhmedov&hide_border=true&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAkhmedov&hide=smarty,java,actionscript&hide_border=true&theme=synthwave&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
  
