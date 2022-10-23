@@ -10,7 +10,7 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw1iUtIo4siCccA1ObTfqKjq&ust=1666621346702000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiJlbzG9voCFQAAAAAdAAAAABAE)" alt="css3" width="40" height="40"/> </a>
 </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AzimAkhmedov&hide_border=true&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAkhmedov&hide=smarty,java,actionscript&hide_border=true&theme=synthwave&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
