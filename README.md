@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=Front+Developer)](https://git.io/typing-svg)
 
 <div background="darkcayn">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=Front+Developer)](https://git.io/typing-svg)
 
 
 
