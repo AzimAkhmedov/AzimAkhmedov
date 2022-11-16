@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=4e0a82&vCenter=true&lines=Front-end+Dev)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4e0a82&vCenter=true&lines=Akfa+University+student)](https://git.io/typing-svg)
 
 
 
